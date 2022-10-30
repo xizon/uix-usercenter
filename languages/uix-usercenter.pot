@@ -1,0 +1,926 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: _s 1.0.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2022-10-11 14:33+0000\n"
+"POT-Revision-Date: Fri Apr 07 2017 19:11:30 GMT+0800 (CST)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: helper/tabs/usage.php:22
+msgid ""
+"&nbsp;&nbsp;&nbsp;&nbsp;As a workaround you can use FTP, access the Uix "
+"UserCenter template files path <code>/wp-content/plugins/uix-"
+"usercenter/theme_templates/</code> and upload files to your theme templates "
+"directory <code>/wp-content/themes/{your-theme}/</code>. "
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:257
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:131
+msgid "-"
+msgstr ""
+
+#: uix-usercenter.php:650
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%1$s\"><i class=\"dashicons dashicons-welcome-"
+"write-blog\"></i> Edit this template</a>"
+msgstr ""
+
+#: helper/tabs/usage.php:10
+msgid ""
+"<h4 class=\"uix-bg-custom-title\">1. After activating your theme, you can "
+"see a prompt pointed out as absolutely critical. Go to <strong>\"Appearance -"
+"> Install Plugins\"</strong>.\n"
+"Or, upload the plugin to wordpress, Activate it. (Access the path (/wp-"
+"content/plugins/) And upload files there.)</h4>"
+msgstr ""
+
+#: helper/tabs/usage.php:14
+msgid ""
+"<h4 class=\"uix-bg-custom-title\">2. You need to create Uix UserCenter "
+"template files in your templates directory. You can create the files on the "
+"WordPress admin panel.</h4>"
+msgstr ""
+
+#: helper/settings.php:71
+msgid "<i class=\"dashicons dashicons-admin-generic\"></i> General Settings"
+msgstr ""
+
+#: uix-usercenter.php:562
+msgid ""
+"<strong>You could create Uix UserCenter template files in your templates "
+"directory. You can create the files on the WordPress admin panel.</strong>"
+msgstr ""
+
+#: uix-usercenter.php:479 helper/settings.php:56
+msgid "About"
+msgstr ""
+
+#: includes/post-type/options.php:180
+msgid "Access Password"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:80
+msgid "Add Files"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/custom-attrs.php:37
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:95
+msgid "Add New"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:19
+#: includes/post-type/post-type-init.php:22
+msgid "Add New Item"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:20
+msgid "Add New UserCenter Item"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:81
+msgid "Add Text"
+msgstr ""
+
+#: helper/tabs/general-settings.php:366
+msgid "Admin Page Redirect for Member"
+msgstr ""
+
+#: helper/tabs/general-settings.php:304
+#, php-format
+msgid ""
+"After canceling the queue, you can create a new JS file for use.<br> The "
+"script refers to <a href=\"%s\" target=\"_blank\">%s</a>"
+msgstr ""
+
+#: helper/tabs/general-settings.php:83
+msgid "Allow CORS Domains"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:159
+#: theme_templates/tmpl-usercenter_profile.php:173
+#: theme_templates/tmpl-usercenter_password_reset.php:82
+#: theme_templates/tmpl-usercenter_password_reset.php:91
+msgid "Answer"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:258
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: helper/tabs/temp.php:53
+msgid ""
+"Are you sure?\\nIt is possible based on your theme of the plugin templates. "
+"When you create them again, the default plugin template will be used."
+msgstr ""
+
+#: helper/tabs/temp.php:45
+msgid ""
+"As a workaround you can use FTP, access path <code>/wp-content/themes/{your-"
+"theme}/</code> and remove Uix UserCenter template files."
+msgstr ""
+
+#: uix-usercenter.php:562 helper/tabs/temp.php:61
+msgid ""
+"As a workaround you can use FTP, access the Uix UserCenter template files "
+"path <code>/wp-content/plugins/uix-usercenter/theme_templates/</code> and "
+"upload files to your theme templates directory <code>/wp-"
+"content/themes/{your-theme}/</code>. "
+msgstr ""
+
+#: includes/post-type/post-type-init.php:86
+msgid "Author"
+msgstr ""
+
+#: helper/tabs/general-settings.php:226
+msgid "Automatically Generate Pages"
+msgstr ""
+
+#: helper/tabs/general-settings.php:245
+msgid ""
+"Automatically generate template pages so that you can quickly find the "
+"corresponding URL. <br> You could click on Pages in your Dashboard and then "
+"click <strong>Add New Page</strong>."
+msgstr ""
+
+#: helper/tabs/general-settings.php:313
+msgid "Automatically Jump To Custom Login Page"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:56
+#: theme_templates/tmpl-usercenter_submission.php:93
+#: theme_templates/tmpl-usercenter_password_reset.php:51
+#: theme_templates/tmpl-usercenter_login.php:45
+#: helper/tabs/general-settings.php:105
+msgid "Captcha"
+msgstr ""
+
+#: helper/tabs/general-settings.php:111
+msgid "Captcha Detection"
+msgstr ""
+
+#: helper/tabs/general-settings.php:137
+msgid "Captcha Identifier"
+msgstr ""
+
+#: helper/tabs/general-settings.php:154
+msgid "Captcha Style"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:68
+msgid "Change password"
+msgstr ""
+
+#: helper/tabs/general-settings.php:332
+msgid ""
+"Check if we're on the login page. If so, jump to the login page template "
+"created by the plugin."
+msgstr ""
+
+#: includes/modules/global-variables.php:98
+msgid "City where you met your other half?"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:93
+msgid "Class Name"
+msgstr ""
+
+#: helper/tabs/temp.php:77
+msgid "Click This Button to Copy Uix UserCenter Files"
+msgstr ""
+
+#: helper/tabs/general-settings.php:274
+msgid "Combine all front-end JS into one file."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:48
+#: theme_templates/tmpl-usercenter_profile.php:197
+msgid "Confirm Password"
+msgstr ""
+
+#: helper/tabs/temp.php:59
+msgid "Copy Uix UserCenter template files in your templates directory:"
+msgstr ""
+
+#: uix-usercenter.php:562 helper/tabs/usage.php:18
+msgid "Create now!"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:77
+msgid "Custom Content"
+msgstr ""
+
+#: includes/modules/auto-create-pages.php:19
+msgid "Custom Login"
+msgstr ""
+
+#: includes/modules/auto-create-pages.php:22
+msgid "Custom Password Reset"
+msgstr ""
+
+#: includes/modules/auto-create-pages.php:21
+msgid "Custom Profile"
+msgstr ""
+
+#: includes/modules/auto-create-pages.php:20
+msgid "Custom Register"
+msgstr ""
+
+#: includes/modules/auto-create-pages.php:23
+msgid "Custom Submission"
+msgstr ""
+
+#: includes/modules/global-variables.php:124
+msgid "Data update failure."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:116
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:90
+msgid "Description"
+msgstr ""
+
+#: helper/tabs/general-settings.php:125 helper/tabs/general-settings.php:240
+#: helper/tabs/general-settings.php:268 helper/tabs/general-settings.php:300
+#: helper/tabs/general-settings.php:326 helper/tabs/general-settings.php:354
+#: helper/tabs/general-settings.php:379
+msgid "Disable"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:104
+msgid "Display Name"
+msgstr ""
+
+#: uix-usercenter.php:547
+msgid ""
+"Do you want to create a usercenter website with WordPress?  Learn how to add "
+"usercenter to your themes."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:85
+msgid "E-mail"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:21
+msgid "Edit Item"
+msgstr ""
+
+#: theme_templates/partials-usercenter_tmpl_nav.php:239
+msgid "Edit Profile"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:38
+#: theme_templates/tmpl-usercenter_password_reset.php:43
+#: includes/post-type/post-type-init.php:204 includes/post-type/options.php:107
+msgid "Email"
+msgstr ""
+
+#: includes/modules/global-variables.php:113
+msgid "Email already exists."
+msgstr ""
+
+#: includes/modules/global-variables.php:115
+msgid "Email verification is correct."
+msgstr ""
+
+#: helper/tabs/general-settings.php:119 helper/tabs/general-settings.php:234
+#: helper/tabs/general-settings.php:263 helper/tabs/general-settings.php:294
+#: helper/tabs/general-settings.php:321 helper/tabs/general-settings.php:349
+#: helper/tabs/general-settings.php:374
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:88
+msgid "Enable Lightbox for this gallery?"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:628
+#: includes/admin/uix-custom-metaboxes/controls/radio.php:156
+msgid "Field Title"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:74
+msgid "Files"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:92
+msgid "First Name"
+msgstr ""
+
+#: includes/modules/global-variables.php:94 includes/modules/captcha.php:33
+msgid "Get Captcha"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_password_reset.php:62
+msgid "Go on"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:305
+msgid "Group Title"
+msgstr ""
+
+#: uix-usercenter.php:478
+msgid "Helper"
+msgstr ""
+
+#: helper/tabs/temp.php:66
+msgid ""
+"Hi, there! It’s just a custom template file in the theme folder. Of course "
+"you doesn’t need to create it, you can use of the default page template or "
+"your own custom template file directly."
+msgstr ""
+
+#: uix-usercenter.php:454 uix-usercenter.php:455 uix-usercenter.php:502
+#: uix-usercenter.php:548 helper/settings.php:61
+msgid "How to use?"
+msgstr ""
+
+#: includes/post-type/options.php:143
+msgid "http://"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://uiux.cc"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://uiux.cc/"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:203 includes/post-type/options.php:101
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:91
+msgid "ID"
+msgstr ""
+
+#: helper/tabs/general-settings.php:130
+msgid ""
+"If disabled, registration, login, publishing and other plugin pages will not "
+"require verification codes."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_submission.php:75
+msgid ""
+"If your submitted site meets the quality requirements, it will be reviewed "
+"and approved within 7 days, thank you for your recommendation."
+msgstr ""
+
+#: includes/modules/global-variables.php:101
+msgid "In what city or town does your nearest sibling live?"
+msgstr ""
+
+#: includes/modules/global-variables.php:105
+msgid "In what year was your mother born?"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:247
+msgid "Insert"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:248
+msgid "Insert Image"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:251
+msgid "Insert/Edit link"
+msgstr ""
+
+#: includes/modules/global-variables.php:112
+msgid "Invalid e-mail address."
+msgstr ""
+
+#: includes/modules/global-variables.php:119
+msgid "It is NOT valid URL."
+msgstr ""
+
+#: includes/post-type/options.php:62
+msgid "Item Info"
+msgstr ""
+
+#: includes/post-type/options.php:166
+msgid "Item Name"
+msgstr ""
+
+#: helper/tabs/general-settings.php:198
+msgid "Jump URL After Login"
+msgstr ""
+
+#: helper/tabs/general-settings.php:211
+msgid "Jump URL After Logout"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:256
+msgid "Language"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:97
+msgid "Last Name"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:253
+msgid "Link Text"
+msgstr ""
+
+#: includes/modules/global-variables.php:109
+msgid "loading..."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:73
+#: theme_templates/tmpl-usercenter_login.php:62
+msgid "Log In"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_login.php:30
+msgid "Log into Your Account"
+msgstr ""
+
+#: includes/modules/global-variables.php:125
+msgid "Login successful, redirecting..."
+msgstr ""
+
+#: theme_templates/partials-usercenter_tmpl_nav.php:241
+#: theme_templates/tmpl-usercenter_register.php:27
+#: theme_templates/tmpl-usercenter_password_reset.php:27
+#: theme_templates/tmpl-usercenter_login.php:27
+msgid "Logout"
+msgstr ""
+
+#: includes/modules/global-variables.php:126
+msgid "Logout successful, redirecting..."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_login.php:68
+msgid "Lost Password?"
+msgstr ""
+
+#: helper/tabs/general-settings.php:255
+msgid "Merge Front-end JS Files"
+msgstr ""
+
+#: helper/tabs/general-settings.php:193
+msgid "Miscellaneous"
+msgstr ""
+
+#: theme_templates/partials-usercenter_tmpl_nav.php:237
+msgid "My Submission"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:202 includes/post-type/options.php:95
+msgid "Name"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_login.php:66
+msgid "No account?"
+msgstr ""
+
+#: includes/API/get-list.php:230
+msgid "No content"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:25
+msgid "No Items Found"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:26
+msgid "No Items Found In Trash"
+msgstr ""
+
+#: helper/tabs/general-settings.php:275
+msgid ""
+"Note: it will have a 30-minute cache, and the cache can be cleared "
+"immediately when the user login."
+msgstr ""
+
+#: includes/API/auth.php:66 includes/API/get-list.php:99
+#: includes/API/get-list.php:222
+msgid "OK"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:254
+msgid "Open link in a new tab"
+msgstr ""
+
+#: uix-usercenter.php:759
+msgid "Operation successfully completed!"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:92
+msgid "Parent Category"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:43
+#: theme_templates/tmpl-usercenter_profile.php:191
+#: theme_templates/tmpl-usercenter_login.php:38
+msgid "Password"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_password_reset.php:31
+msgid "Password Reset"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:66
+msgid "Personal info"
+msgstr ""
+
+#: includes/modules/global-variables.php:121
+msgid "Please enter correct captcha."
+msgstr ""
+
+#: includes/modules/global-variables.php:122
+msgid "Please enter the captcha."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_password_reset.php:38
+msgid "Please enter your email address to continue to the next step."
+msgstr ""
+
+#: includes/modules/global-variables.php:131
+msgid "Please modify your Password & Security Questions to login next time."
+msgstr ""
+
+#: includes/modules/global-variables.php:111
+msgid "Profile successfully updated."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_submission.php:85
+#: includes/post-type/options.php:142
+msgid "Project URL"
+msgstr ""
+
+#: includes/post-type/options.php:173
+msgid "Purchase/Download Link"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:151
+#: theme_templates/tmpl-usercenter_password_reset.php:78
+msgid "Question 1"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:165
+#: theme_templates/tmpl-usercenter_password_reset.php:87
+msgid "Question 2"
+msgstr ""
+
+#: includes/modules/captcha.php:34
+msgid "Refresh"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:69
+msgid "Register"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:30
+msgid "Register New Account"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_login.php:57
+msgid "Remember Me"
+msgstr ""
+
+#: helper/tabs/general-settings.php:78
+msgid "Remote Requests"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/custom-attrs.php:36
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:94
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:79
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:84
+#: includes/admin/uix-custom-metaboxes/controls/image.php:11
+msgid "Remove"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:250
+msgid "Remove link"
+msgstr ""
+
+#: uix-usercenter.php:776
+msgid "Remove successful!"
+msgstr ""
+
+#: helper/tabs/general-settings.php:341
+msgid "Remove Toolbar for Register Members"
+msgstr ""
+
+#: helper/tabs/temp.php:53
+msgid "Remove Uix UserCenter Template Files"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:129
+msgid ""
+"Resetting your password by authenticating via Security question(s) & answer "
+"method."
+msgstr ""
+
+#: includes/post-type/options.php:9
+msgid "Resource"
+msgstr ""
+
+#: includes/post-type/options.php:157
+msgid "Resource Settings"
+msgstr ""
+
+#: includes/modules/global-variables.php:108
+msgid "reviewing"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:24
+msgid "Search Items"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:67
+msgid "Security Questions"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:246
+msgid "Select Files"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:85
+#: includes/admin/uix-custom-metaboxes/controls/image.php:12
+msgid "Select image or video"
+msgstr ""
+
+#: includes/modules/global-variables.php:107
+msgid "Sending, please wait..."
+msgstr ""
+
+#: helper/tabs/general-settings.php:90
+msgid ""
+"Separate with english comma like <code>http://localhost:8888,https://example."
+"com</code>, do not end the domain name with a slash <code>/</code>."
+msgstr ""
+
+#: uix-usercenter.php:470 uix-usercenter.php:471
+msgid "Settings"
+msgstr ""
+
+#: helper/tabs/general-settings.php:59
+msgid "Settings saved."
+msgstr ""
+
+#. Description of the plugin
+#: helper/tabs/about.php:10
+msgid ""
+"Sign-in, registration and publishing system with AJAX, support remote API."
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:249
+msgid "Source Code"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:85 includes/post-type/options.php:71
+msgid "Status"
+msgstr ""
+
+#: includes/post-type/options.php:8
+msgid "Submission"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_submission.php:51
+msgid "Submission List"
+msgstr ""
+
+#: includes/post-type/options.php:132
+msgid "Submission Settings"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_submission.php:114
+msgid "Submit"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_submission.php:52
+msgid "Submit a website"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:84 includes/post-type/options.php:113
+msgid "Submit Date"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:255
+msgid "Syntax Highlight Code"
+msgstr ""
+
+#: uix-usercenter.php:462 uix-usercenter.php:463 helper/settings.php:66
+msgid "Template Files"
+msgstr ""
+
+#: helper/tabs/temp.php:49 helper/tabs/temp.php:71
+msgid "Template files list:"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:75
+msgid "Text"
+msgstr ""
+
+#: helper/tabs/general-settings.php:144
+msgid ""
+"The captcha is stored in session, and you can set its matching identifier."
+msgstr ""
+
+#: includes/modules/global-variables.php:116
+msgid "The passwords entered twice do not match."
+msgstr ""
+
+#: includes/modules/global-variables.php:120
+msgid "The title can not be blank."
+msgstr ""
+
+#: includes/modules/global-variables.php:114
+msgid "There is no user registered with that email address."
+msgstr ""
+
+#: uix-usercenter.php:768
+msgid ""
+"There was a problem copying your template files:</strong> Please check your "
+"server settings. You can upload files to theme templates directory using FTP."
+msgstr ""
+
+#: uix-usercenter.php:773
+msgid ""
+"There was a problem removing your template files:</strong> Please check your "
+"server settings. You can upload files to theme templates directory using FTP."
+msgstr ""
+
+#: includes/post-type/post-type-init.php:80
+msgid "Thumbnail"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_submission.php:80
+#: includes/admin/uix-custom-metaboxes/controls/custom-attrs.php:34
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:88
+msgid "Title"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:82 includes/post-type/options.php:30
+msgid "Type"
+msgstr ""
+
+#. Author of the plugin
+msgid "UIUX Lab"
+msgstr ""
+
+#. Name of the plugin
+#: includes/post-type/post-type-init.php:17
+msgid "Uix UserCenter"
+msgstr ""
+
+#: helper/settings.php:42
+msgid "Uix UserCenter Helper"
+msgstr ""
+
+#: helper/tabs/temp.php:43
+msgid ""
+"Uix UserCenter template files already exists. Remove Uix UserCenter template "
+"files in your templates directory:"
+msgstr ""
+
+#: includes/modules/global-variables.php:130 includes/modules/token-auth.php:35
+msgid "Unauthorized"
+msgstr ""
+
+#: helper/tabs/general-settings.php:286
+msgid "Unenqueue This Plugin's Script"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:234
+msgid "Untitled"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:216
+msgid "Update"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/multi-portfolio.php:78
+msgid "Upload Your Files"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/init.php:252
+msgid "URL"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:83 includes/post-type/options.php:85
+msgid "User Info"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:18
+msgid "UserCenter Item"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:34
+#: theme_templates/tmpl-usercenter_profile.php:77
+msgid "Username"
+msgstr ""
+
+#: includes/modules/global-variables.php:129
+msgid "Username already exists."
+msgstr ""
+
+#: includes/modules/global-variables.php:128
+msgid "Username and password cannot be empty."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_login.php:34
+msgid "Username or Email"
+msgstr ""
+
+#: includes/admin/uix-custom-metaboxes/controls/custom-attrs.php:35
+#: includes/admin/uix-custom-metaboxes/controls/multi-content.php:89
+msgid "Value"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_password_reset.php:96
+msgid "Verify"
+msgstr ""
+
+#: includes/post-type/post-type-init.php:23
+msgid "View Item"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:109
+msgid "Website"
+msgstr ""
+
+#: includes/modules/global-variables.php:99
+msgid "What is the first name of the person you first kissed?"
+msgstr ""
+
+#: includes/modules/global-variables.php:96
+msgid "What is the first name of your best friend in high school?"
+msgstr ""
+
+#: includes/modules/global-variables.php:104
+msgid "What is the name of your favourite band or singer?"
+msgstr ""
+
+#: includes/modules/global-variables.php:103
+msgid "What is your pet's name?"
+msgstr ""
+
+#: includes/modules/global-variables.php:102
+msgid "What time of the day were you born? (hh:mm)"
+msgstr ""
+
+#: includes/modules/global-variables.php:97
+msgid "What was the first film you saw in the theatre?"
+msgstr ""
+
+#: includes/modules/global-variables.php:100
+msgid "What was the name of your elementary / primary school?"
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_profile.php:186
+msgid "When both password fields are left empty, your password will not change"
+msgstr ""
+
+#: includes/modules/global-variables.php:127
+msgid "Wrong username, e-mail address or password."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_register.php:27
+#: theme_templates/tmpl-usercenter_password_reset.php:27
+#: theme_templates/tmpl-usercenter_login.php:27
+msgid "You are already logged in"
+msgstr ""
+
+#: helper/settings.php:34
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: includes/modules/global-variables.php:110
+msgid "You have no content."
+msgstr ""
+
+#: theme_templates/tmpl-usercenter_password_reset.php:74
+msgid ""
+"You will be prompted with the security question(s) provided by you. Answer "
+"those to authenticate the password reset process. Password can be reset if "
+"any one is correct."
+msgstr ""
+
+#: includes/modules/global-variables.php:118
+msgid "Your new password is: "
+msgstr ""
+
+#: includes/modules/global-variables.php:117
+#, php-format
+msgid "Your new password is: %s"
+msgstr ""
+
+#: includes/modules/global-variables.php:123
+msgid "Your submission was successful. Thank you!"
+msgstr ""
