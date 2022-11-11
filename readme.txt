@@ -6,8 +6,8 @@ Plugin URL: https://wordpress.org/plugins/uix-usercenter/
 Tags: member, users, post type, login, register, ajax, sign-in, sign-up
 Requires at least: 4.2
 Requires PHP: 5.6
-Tested up to: 6.0.3
-Stable tag: 1.0.0
+Tested up to: 6.1
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,10 @@ Go to **"Uix UserCenter -> Settings -> General Settings"**
 
 
 == Changelog ==
+
+= 1.0.1 (November 11, 2022) =
+
+* Tweak: Creation of captcha and nonce only allows post method.
 
 
 = 1.0.0 (October 8, 2022) =

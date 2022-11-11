@@ -16,6 +16,9 @@ if ( !function_exists( 'uix_usercenter_ajax_createcaptcha' ) ) {
 	add_action('wp_ajax_nopriv_createcaptcha_action', 'uix_usercenter_ajax_createcaptcha');  // for non-logged in users
     function uix_usercenter_ajax_createcaptcha(){
 
+        // only POST requests
+        if ( $_SERVER['REQUEST_METHOD'] != 'POST' ) die();
+
         // Get Captcha
          // ( --> It could be used for different domain request)
          $rand_str = UixUserCenter::generate_random_str();
