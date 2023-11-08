@@ -6,8 +6,8 @@ Plugin URL: https://wordpress.org/plugins/uix-usercenter/
 Tags: member, users, post type, login, register, ajax, sign-in, sign-up
 Requires at least: 4.2
 Requires PHP: 5.6
-Tested up to: 6.1
-Stable tag: 1.0.1
+Tested up to: 6.4
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -57,6 +57,12 @@ Go to **"Uix UserCenter -> Settings -> General Settings"**
 
 
 == Changelog ==
+
+
+= 1.0.2 (November 6, 2023) =
+
+* Tweak: compatible with WP 6.4.
+
 
 = 1.0.1 (November 11, 2022) =
 

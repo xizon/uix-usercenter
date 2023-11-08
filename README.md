@@ -46,6 +46,11 @@ Or, upload the plugin to wordpress, Activate it. (Access the path (/wp-content/p
 
 
 
+##### = 1.0.2 (November 6, 2023) =
+
+* Tweak: compatible with WP 6.4.
+
+
 ##### = 1.0.1 (November 11, 2022) =
 
 * Tweak: Creation of captcha and nonce only allows post method.
@@ -82,3 +87,5 @@ Or, upload the plugin to wordpress, Activate it. (Access the path (/wp-content/p
 - WP 5.9.*
 - WP 6.0.*
 - WP 6.1.*
+- WP 6.3.*
+- WP 6.4.*
