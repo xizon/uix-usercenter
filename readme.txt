@@ -3,10 +3,10 @@ Contributors: uiuxlab
 Donate link: https://uiux.cc
 Author URI: https://uiux.cc
 Plugin URL: https://wordpress.org/plugins/uix-usercenter/
-Tags: member, users, post type, login, register, ajax, sign-in, sign-up
+Tags: member, users, login, register, custom-api
 Requires at least: 4.2
 Requires PHP: 5.6
-Tested up to: 6.5.2
+Tested up to: 6.7.1
 Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

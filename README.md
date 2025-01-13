@@ -89,3 +89,4 @@ Or, upload the plugin to wordpress, Activate it. (Access the path (/wp-content/p
 - WP 6.1.*
 - WP 6.3.*
 - WP 6.4.*
+- WP 6.7.*
