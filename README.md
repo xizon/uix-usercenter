@@ -45,6 +45,9 @@ Or, upload the plugin to wordpress, Activate it. (Access the path (/wp-content/p
 ### Updates
 
 
+##### = 1.0.3 (April 24, 2025) =
+
+* Fix: Avoid the error "Function _load_textdomain_just_in_time was called incorrectly".
 
 ##### = 1.0.2 (November 6, 2023) =
 
@@ -90,3 +93,4 @@ Or, upload the plugin to wordpress, Activate it. (Access the path (/wp-content/p
 - WP 6.3.*
 - WP 6.4.*
 - WP 6.7.*
+- WP 6.8.*

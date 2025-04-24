@@ -21,7 +21,17 @@ if ( !class_exists( 'UixUserCenter_PostType' ) ) {
         public static function init() {
         
             self::includes();
+
+
+            // Avoid the error "Function _load_textdomain_just_in_time was called incorrectly"
+            add_action('admin_init', function() {
+                
+                //Options for custom meta boxes
+                require_once UIX_USERCENTER_PLUGIN_DIR . 'includes/post-type/options.php';
+                
+            });
             
+
             add_filter( 'body_class', array( __CLASS__, 'new_class' ) );
             add_filter( 'post_thumbnail_html', array( __CLASS__, 'remove_thumbnail_dimensions' ), 10, 4 );
             add_action( 'after_setup_theme', array( __CLASS__, 'add_featured_image_support' ), 11 );
@@ -39,8 +49,6 @@ if ( !class_exists( 'UixUserCenter_PostType' ) ) {
             //Custom post type function initialization
             require_once UIX_USERCENTER_PLUGIN_DIR . 'includes/post-type/post-type-init.php';
             
-            //Options for custom meta boxes
-            require_once UIX_USERCENTER_PLUGIN_DIR . 'includes/post-type/options.php';
             
         }
 

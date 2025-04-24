@@ -6,8 +6,8 @@ Plugin URL: https://wordpress.org/plugins/uix-usercenter/
 Tags: member, users, login, register, custom-api
 Requires at least: 4.2
 Requires PHP: 5.6
-Tested up to: 6.7.1
-Stable tag: 1.0.2
+Tested up to: 6.8
+Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -58,6 +58,10 @@ Go to **"Uix UserCenter -> Settings -> General Settings"**
 
 == Changelog ==
 
+
+= 1.0.3 (April 24, 2025) =
+
+* Fix: Avoid the error "Function _load_textdomain_just_in_time was called incorrectly".
 
 = 1.0.2 (November 6, 2023) =
 

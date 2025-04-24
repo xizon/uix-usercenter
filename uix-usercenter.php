@@ -9,7 +9,7 @@
  * Plugin name: Uix UserCenter
  * Plugin URI:  https://uiux.cc/
  * Description: Sign-in, registration and publishing system with AJAX, support remote API.
- * Version:     1.0.2
+ * Version:     1.0.3
  * Author:      UIUX Lab
  * Author URI:  https://uiux.cc
  * License:     GPLv2 or later
