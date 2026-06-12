@@ -6,7 +6,7 @@ Plugin URL: https://wordpress.org/plugins/uix-usercenter/
 Tags: member, users, login, register, custom-api
 Requires at least: 4.2
 Requires PHP: 5.6
-Tested up to: 6.8
+Tested up to: 7.0
 Stable tag: 1.0.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
